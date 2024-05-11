@@ -1,0 +1,11 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+*.qmd
+*.csv
+NFL_Zones_of_Contact.Rproj
+Peer-Review-Comments.pdf
+/.quarto/
+.gitattributes
+R files & Data/data/
